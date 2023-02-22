@@ -16,6 +16,10 @@ export default function Header() {
         window.open("https://knowyourmeme.com/memes/borzoi-long-nose-dog/#on-tiktok")
     }
 
+    function url() {
+        window.open("https://www.linkedin.com/in/ismarjiworkman/")
+    } 
+
     return (
         <header className="header">
             <img
@@ -23,6 +27,7 @@ export default function Header() {
                 className="header--image"
             />
             <h2 className="header--title">letme<span className="play-sound" onClick={memeSource}>memeit</span>foryou</h2>
+            <h4 onClick={url}>Created by Ismarji Workman ☮︎ 2023</h4>
         </header>
     )
 }
