@@ -1,4 +1,5 @@
 import React, { useEffect } from "react"
+import icon from "../src/assets/icon.png"
 
 export default function Header() {
 
@@ -18,7 +19,7 @@ export default function Header() {
     return (
         <header className="header">
             <img
-                src="../src/assets/icon.png"
+                src={icon}
                 className="header--image"
             />
             <h2 className="header--title">letme<span className="play-sound" onClick={memeSource}>memeit</span>foryou</h2>
