@@ -1,5 +1,5 @@
 import React, { useEffect } from "react"
-import icon from "../src/assets/icon.png"
+import icon from "/icon.png"
 
 export default function Header() {
 
