@@ -1,4 +1,4 @@
-# Letmememeitforyou: A meme generator app 
+# Let me meme it for you: A meme generator app 
 ![Letmememeitforyou header](https://i.imgur.com/Jbel1xE.png)
 
-[Try out Letmememeitforyou] (https://letmememeitforyou.netlify.app/)
+[Try out Let me meme it fo ryou](https://letmememeitforyou.netlify.app/)
